@@ -11,3 +11,6 @@ p {
 div {
     background-color: lightgrey;
 }
+::selection {
+    background-color: rgb(247, 128, 197);
+}

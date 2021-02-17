@@ -4,3 +4,10 @@ h1 {
 p {
     font-family: 'Source Sans Pro', sans-serif;
 }
+h2 {
+    font-family: 'Truculenta', sans-serif;
+}
+
+
+/********** GOOGLE FONT ***********/
+@import url('https://fonts.googleapis.com/css2?family=Truculenta&display=swap');
