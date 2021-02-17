@@ -6,6 +6,31 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Selecteurs relatifs</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        body, div {
+            background-color: lightgrey;
+        }
+        #conteneur p {
+            color: red;
+        }
+        #conteneur>p {
+            font-weight: bold;
+        }
+        #conteneur h2+p {
+            color: green;
+            text-transform: uppercase;
+        }
+        code+p{
+            color: hotpink;
+        }
+        body div {
+            color: yellow;
+        }
+        h1+div {
+            border: green;
+            border:1em;
+        }
+    </style>
 </head>
 
 <body>
