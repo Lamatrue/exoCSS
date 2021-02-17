@@ -1,0 +1,13 @@
+p b {
+    border: 1px solid red;
+}
+
+span {
+    background-color: pink;
+}
+p {
+    border: solid green 1px;
+}
+div {
+    background-color: lightgrey;
+}
