@@ -1,0 +1,14 @@
+.facebook, .twitter, .youtube, .linkedin {
+    width:  84px;
+    height: 84px;
+    display: block;
+    position: absolute;
+}
+
+.facebook {
+    background-image: url("social-sprite.png");
+    background-position: 0px -84px;
+}
+.twitter {
+    
+}

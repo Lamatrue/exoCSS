@@ -23,7 +23,3 @@ h2 {
 .box {
     box-sizing: border-box;
 }
-/*
- 
-  - changer un box sizing à border box pour les paragraphes ayant la classe .box
-*/
