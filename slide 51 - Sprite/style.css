@@ -1,4 +1,5 @@
-.facebook, .twitter, .youtube, .linkedin {
+.social a {
+    background-image: url("social-sprite.png");
     width:  84px;
     height: 84px;
     display: block;
@@ -6,41 +7,33 @@
 }
 
 .facebook {
-    background-image: url("social-sprite.png");
     background-position: 0px -168px;
 }
 
 .twitter {
-    background-image: url("social-sprite.png");
     background-position: -672px -168px;
     left: 100px;
 }
 
 .youtube {
-    background-image: url("social-sprite.png");
     background-position: -840px -168px;
     left: 192px;
 }
 
 .linkedin {
-    background-image: url("social-sprite.png");
     background-position: -336px -168px;
     left: 284px;
 }
 /******************* HOVER *******************/
 :hover.facebook {
-    background-image: url("social-sprite.png");
     background-position: 0px -84px;
 }
 :hover.twitter {
-    background-image: url("social-sprite.png");
     background-position: -672px -84px;
 }
 :hover.youtube {
-    background-image: url("social-sprite.png");
     background-position: -840px -84px;
 }
 :hover.linkedin {
-    background-image: url("social-sprite.png");
     background-position: -336px -84px;
 }
